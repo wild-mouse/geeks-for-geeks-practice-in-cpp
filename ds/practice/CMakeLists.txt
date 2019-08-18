@@ -4,3 +4,4 @@ project(hoge)
 set(CMAKE_CXX_STANDARD 14)
 
 add_subdirectory(easy)
+add_subdirectory(basic)
